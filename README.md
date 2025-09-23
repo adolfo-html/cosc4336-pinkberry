@@ -24,4 +24,48 @@ If you want to make changes to this doc (you're prolly gonna have to), it uses M
 
 # The Project
 
-(coming soon)
+## Summary
+
+This project will deliver an LCARS-style interface layered over existing desktop systems. It will display files, drives, and additional features in a colorful, Star Trek–style, user-friendly package.
+
+## Objectives
+
+Provide Prof. Morris an executable LCARS-style desktop overlay for the existing interface by November 29, 2025. It will include all features in the project objectives; any additional features will be added after the base scope is complete.
+1. Create a storage display system showing drive name, available/used space, percent usage, and drive type. (Oct 18)
+2. Build a file manager to display files with editing, execution, and read/write capabilities. (Oct 25)
+3. Add cursor and display interaction with Star Trek–style sounds (lasers, pneumatics, beeps, boops). (Nov 15)
+4. Deliver a complete LCARS interface integrating all features and additional enhancements. (Nov 29)
+
+## Business Requirements
+
+### Hardware
+- **Laptop or desktop computer**
+
+### Software & Skills
+Programming Languages: 
+- **C#** (Windows compatibility)
+- **Java/C++** (cross-platform:Windows, Linux, Mac)
+- **JavaScript/React** (UI/UX development)
+
+### Time Commitment
+- 3–4 hours of meetings (class + external)
+- 1–2 hours of research
+- 1–2 hours of development
+
+## Stakeholders
+
+*Client: Prof. Morris* - Provide requirements and project specifications
+
+*Team Lead: Shashwat Karn* - Keep members on track, maintain schedules, and delegate tasks
+
+*Programming Lead: Adolfo Chavez* - Guide the programming team, ensure quality and consistency, and assign coding tasks
+and resources
+
+*Configuration Manager: Bradford King* - Manage repository access and ensure seamless integration between files and manage
+submissions.
+
+*Documentation: Asfa Asif* - Maintain consistent project documentation and review updates
+
+*Test Engineer: Paul JR* - Verify system functionality through testing and ensure quality standards
+
+*Business Analyst: Hunter Hart* - Communicate with the client to confirm progress aligns with requirements
